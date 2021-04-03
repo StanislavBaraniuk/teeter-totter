@@ -1,9 +1,5 @@
 # Created with Vue.js + Canvas
-## 1
 ```
 npm install
-```
-## 2
-```
 npm run serve
 ```
